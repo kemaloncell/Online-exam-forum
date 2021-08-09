@@ -9,7 +9,7 @@
       "answer": "chooseC"
     },
     {
-      "question": "Which of the following is the function of giving a warning message with JavaScript? ?",
+      "question": "Which of the following is the function of giving a warning message with JavaScript? ",
       "chooseA": "alert()",
       "chooseB": "document.write()",
       "chooseC": "console.log()",
