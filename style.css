@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 10px;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #887673;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+  overflow: hidden;
+}
+#exam {
+  width: 60rem;
+  background-color: #e2e2e2;
+  border-radius: 1rem;
+  box-shadow: 0 0 1rem 0.2rem lightcyan;
+  overflow: hidden;
+}
+.questionArea {
+  padding: 4rem;
+}
+h2 {
+  font-size: 25px;
+  text-align: center;
+  padding: 2rem;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  font-size: 15px;
+  margin: 1rem 0;
+}
+ul li label {
+  cursor: pointer;
+}
+button {
+  background-color: #605b9a;
+  width: 100%;
+  display: block;
+  border: none;
+  padding: 1rem;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+button:hover {
+  background-color: #a58dea;
+  transition: 0.6s;
+  color: black;
+  font-size: 2rem;
+}
+button:focus {
+  background-color: #08b557;
+  outline: none;
+  color: black;
+  font-size: 2rem;
+}

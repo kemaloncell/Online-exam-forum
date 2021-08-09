@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is not a programming language ?",
+      "chooseA": "JavaScript",
+      "chooseB": "node.js",
+      "chooseC": "Vue.js",
+      "chooseD": "PHP",
+      "answer": "chooseC"
+    },
+    {
+      "question": "Which of the following is the function of giving a warning message with JavaScript? ?",
+      "chooseA": "alert()",
+      "chooseB": "document.write()",
+      "chooseC": "console.log()",
+      "chooseD": "document.querySelector()",
+      "answer": "chooseA"
+    }
+  ]
+}
